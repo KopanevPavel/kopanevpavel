@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on neural rendering
+- 🔭 I’m currently working on the 3D computer vision field and neural rendering in particular
 - 📫 How to reach me: 
   -  Telegram: @kopanev
   -  Email: kopanev-pavel-spb@yandex.ru 
