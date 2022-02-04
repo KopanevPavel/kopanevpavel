@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on neural rendering
+- 📫 How to reach me: 
+  -  Telegram: @kopanev
+  -  Email: kopanev-pavel-spb@yandex.ru 
+  -  LinkedIn: https://www.linkedin.com/in/kopanev/ 
+
+
+![](https://github-readme-stats.vercel.app/api?username=kopanevpavel&show_icons=true&hide=contribs&theme=radical)
+
