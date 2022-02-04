@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   -  Telegram: @kopanev
   -  Email: kopanev-pavel-spb@yandex.ru 
   -  LinkedIn: https://www.linkedin.com/in/kopanev/ 
+- 🎓 CV: [click](https://drive.google.com/file/d/1r-mDg1OBiLcqHeDMN_j71ecwcw0Rv8Vq/view?usp=sharing)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=kopanevpavel&show_icons=true&hide=contribs&theme=radical)
