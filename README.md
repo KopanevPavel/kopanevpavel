@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working in the 3D computer vision field. In particular, I am researching 3D object detection and neural rendering for 3D reconstruction
+- 🔭 3D computer vision research engineer @ Technology Innovation Institute (Abu Dhabi, UAE)
 - 📫 How to reach me: 
   -  Email: kopanev-pavel-spb@yandex.ru 
   -  LinkedIn: https://www.linkedin.com/in/kopanev/ 
-- 🎓 CV: [click](https://drive.google.com/file/d/1XByylH8D6a1l0wos8JsI2G1rh24X5cNO/view?usp=sharing)
 
 
-![](https://github-readme-stats.vercel.app/api?username=kopanevpavel&show_icons=true&hide=contribs&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=kopanevpavel&show_icons=true&hide=contribs,prs&theme=radical)
 
