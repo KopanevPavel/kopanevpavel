@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   -  Email: kopanev-pavel-spb@yandex.ru 
   -  LinkedIn: https://www.linkedin.com/in/kopanev/ 
 
+![](https://komarev.com/ghpvc/?username=kopanevpavel)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=kopanevpavel&show_icons=true&hide=contribs,prs&theme=radical)
 
