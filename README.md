@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 3D computer vision research engineer @ Technology Innovation Institute (Abu Dhabi, UAE)
-- 📫 How to reach me: 
+- 📖 My CV: [https://drive.google.com/file/d/1I8WPumW65i7gRZT9mw2uZDVqwAoWMyTm/view?usp=sharing](link)
+- 👀 How to reach me: 
   -  Email: kopanev-pavel-spb@yandex.ru 
   -  LinkedIn: https://www.linkedin.com/in/kopanev/ 
 
