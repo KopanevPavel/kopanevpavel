@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 3D computer vision research engineer @ Technology Innovation Institute (Abu Dhabi, UAE)
-- 👀 How to reach me: 
-  -  LinkedIn: https://www.linkedin.com/in/kopanev/ 
+- 👀 How to reach me: https://www.linkedin.com/in/kopanev/ 
 
 ![](https://komarev.com/ghpvc/?username=kopanevpavel)
 
-
-![](https://github-readme-stats.vercel.app/api?username=kopanevpavel&show_icons=true&hide=contribs,prs&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=kopanevpavel&show_icons=true&hide=contribs,prs,commits,issues&theme=radical)
 
